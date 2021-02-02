@@ -4,5 +4,6 @@ This is a Python Program that gives out a Colorful and Mesmerizing Pattern. It u
 <img src="Code_Screenshot.png"><img>
 
 And here you can see the final pattern output as the GIF Below:
-![]("Output_Pattern.GIF")
+![](Output_Pattern.GIF)
+
 Hope that you liked it.
